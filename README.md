@@ -103,5 +103,5 @@ Portfólio comercial onde apresento serviços, sites e demonstrações de soluç
 
 <p align="center">
   <strong>Aberto a oportunidades de estágio em desenvolvimento de software.</strong><br>
-  <sub>São Paulo, Brasil · Projetos técnicos e comerciais</sub>
+  <sub>Projetos técnicos e comerciais</sub>
 </p>
