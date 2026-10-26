@@ -1,99 +1,107 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Hiago Sousa Lima — Desenvolvimento de Software" width="100%">
+  <img src="./assets/hero.svg" alt="Hiago Sousa Lima — Desenvolvedor Full Stack em formação" width="100%">
 </p>
 
 <p align="center">
-  Estudante de Desenvolvimento de Sistemas na ETEC • Desenvolvimento Full Stack • Engenharia de Software
+  <a href="https://github.com/hiagosousalima51-droid"><strong>GITHUB</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://base-30-worn.vercel.app/"><strong>PORTFÓLIO BASE 30</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://base-30-worn.vercel.app/#contato"><strong>CONTATO</strong></a>
 </p>
+
+<br>
+
+### `01 / PERFIL`
+
+## Desenvolvedor Full Stack em formação.
+
+Sou estudante de **Desenvolvimento de Sistemas na ETEC**. Tenho interesse em desenvolvimento web, engenharia de software e inteligência artificial — especialmente em como transformar uma necessidade real em um produto claro, funcional e bem apresentado.
+
+Construo projetos próprios e acadêmicos e também desenvolvo soluções comerciais por meio da **Base 30**, meu portfólio de desenvolvimento web. Busco uma oportunidade de **estágio em desenvolvimento de software** para aprofundar meus fundamentos, colaborar com uma equipe e evoluir em projetos reais.
+
+> **Código para resolver. Design para fazer sentido.**
+
+<br>
+
+### `02 / TECNOLOGIAS`
+
+## O que uso para construir
+
+| Área | Tecnologias |
+| :--- | :--- |
+| **Front-end** | `HTML` `CSS` `JavaScript` `Bootstrap` |
+| **Back-end** | `Node.js` `Express` |
+| **Dados & serviços** | `PostgreSQL` `SQL Server` `Supabase` |
+| **Outras linguagens** | `Python` `C++` |
+| **Fluxo de trabalho** | `Git` `GitHub` `VS Code` `Vercel` |
+
+Minha prioridade hoje é consolidar o desenvolvimento Full Stack com JavaScript, Node.js, bancos relacionais, autenticação e organização de código.
+
+<br>
+
+### `03 / PROJETOS SELECIONADOS`
 
 <p align="center">
-  <a href="https://github.com/hiagosousalima51-droid">GitHub</a>
-  ·
-  <a href="https://base-30-worn.vercel.app/">Base 30</a>
+  <img src="./assets/central-ia.svg" alt="Central IA — plataforma de gestão comercial" width="100%">
 </p>
 
-## Olá, eu sou o Hiago 👋
+Plataforma própria de gestão comercial com dashboard, gerenciamento de leads, importação de planilhas, autenticação e integração com banco de dados.
 
-Sou estudante de **Desenvolvimento de Sistemas na ETEC** e desenvolvo projetos próprios, acadêmicos e comerciais. Tenho interesse em **engenharia de software**, **desenvolvimento Full Stack** e **inteligência artificial**.
+`PRODUTO PRÓPRIO` &nbsp; `FULL STACK` &nbsp; `CÓDIGO PRIVADO`
 
-Atualmente, estou aprofundando meus fundamentos enquanto construo aplicações web, sistemas com autenticação e banco de dados e interfaces responsivas. Também desenvolvo projetos para pequenos negócios por meio da **Base 30**.
+O sistema está em desenvolvimento e hospedado em ambiente privado. O código-fonte, dados e acesso público não são disponibilizados.
 
-Estou em busca de uma oportunidade de **estágio em desenvolvimento de software**, onde eu possa aprender com uma equipe, contribuir com projetos reais e evoluir tecnicamente.
+<br>
 
-## Tecnologias com as quais já trabalhei
+<p align="center">
+  <a href="https://atelie-aurora-agendamentos.vercel.app/">
+    <img src="./assets/agendamento.svg" alt="Ateliê Aurora — sistema Full Stack de agendamentos" width="100%">
+  </a>
+</p>
 
-**Front-end**
+Sistema Full Stack para gestão de agendamentos, com fluxo de reservas, autenticação, área do cliente, painel administrativo e banco de dados. O Ateliê Aurora é a versão principal de demonstração de uma base adaptável a diferentes negócios.
 
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=flat&logo=css&logoColor=663399)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat&logo=javascript&logoColor=F7DF1E)
+`JAVASCRIPT` &nbsp; `NODE.JS` &nbsp; `EXPRESS` &nbsp; `POSTGRESQL` &nbsp; `SUPABASE`
 
-**Back-end, programação e dados**
+**[Abrir demonstração ↗](https://atelie-aurora-agendamentos.vercel.app/)**
 
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-20232A?style=flat&logo=express&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-20232A?style=flat&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-20232A?style=flat&logo=cplusplus&logoColor=00599C)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat&logo=postgresql&logoColor=4169E1)
-![SQL Server](https://img.shields.io/badge/SQL_Server-20232A?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
-![Supabase](https://img.shields.io/badge/Supabase-20232A?style=flat&logo=supabase&logoColor=3FCF8E)
+<br>
 
-**Ferramentas e publicação**
+<p align="center">
+  <a href="https://base-30-worn.vercel.app/">
+    <img src="./assets/base30.svg" alt="Base 30 — portfólio comercial de desenvolvimento web" width="100%">
+  </a>
+</p>
 
-![Git](https://img.shields.io/badge/Git-20232A?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat&logo=github&logoColor=FFFFFF)
-![Vercel](https://img.shields.io/badge/Vercel-20232A?style=flat&logo=vercel&logoColor=FFFFFF)
+Portfólio comercial onde apresento serviços, sites e demonstrações de soluções digitais para pequenos negócios. É também o espaço em que aplico desenvolvimento front-end, direção visual e comunicação de produto.
 
-> Essas são tecnologias que já utilizei em estudos e projetos. Continuo aprimorando meus fundamentos e ampliando minha experiência prática.
+`DESENVOLVIMENTO WEB` &nbsp; `UI RESPONSIVA` &nbsp; `PROJETOS COMERCIAIS`
 
-## Projetos em destaque
+**[Conhecer a Base 30 ↗](https://base-30-worn.vercel.app/)**
 
-### Central IA
+<br>
 
-Plataforma própria para gestão de leads e acompanhamento comercial. O projeto reúne dashboard, autenticação, banco de dados, importação de planilhas e organização do fluxo de atendimento.
+#### Outros experimentos
 
-- **Foco:** produto próprio, organização de dados e fluxo comercial
-- **Status:** em desenvolvimento, com código-fonte privado
-- **Próximo passo:** preparar um repositório público somente para documentação, arquitetura e demonstrações seguras
+**[Painel de Cotação ↗](https://github.com/hiagosousalima51-droid/painel-cotacao)** — aplicação em JavaScript que consulta uma API de cotações, atualiza a interface e trata estados de carregamento e falha. **[Ver demonstração](https://painel-cotacao-sigma.vercel.app/)**.
 
-### Sistema de Agendamento — Ateliê Aurora
+<br>
 
-Sistema de agendamento desenvolvido a partir de uma base própria, com fluxo de reservas, autenticação, área do cliente e painel administrativo. O Ateliê Aurora é a versão principal usada para apresentar a solução.
+### `04 / AGORA`
 
-- **Foco:** aplicação Full Stack, autenticação e banco de dados
-- **Tecnologias trabalhadas:** JavaScript, Node.js, Express, PostgreSQL e Supabase
-- **Demonstração:** [atelie-aurora-agendamentos.vercel.app](https://atelie-aurora-agendamentos.vercel.app/)
-
-### Base 30
-
-Portfólio comercial onde apresento serviços de desenvolvimento web e projetos criados para demonstrar soluções para pequenos negócios.
-
-- **Foco:** desenvolvimento web, interfaces responsivas e apresentação de projetos
-- **Atuação:** sites institucionais, landing pages e sistemas web
-- **Site:** [base-30-worn.vercel.app](https://base-30-worn.vercel.app/)
-
-### Painel de Cotação
-
-Aplicação web que consulta uma API de cotações e apresenta valores atualizados de moedas, com estados de carregamento e tratamento de falhas na requisição.
-
-- **Foco:** JavaScript, consumo de API e atualização da interface
-- **Código:** [github.com/hiagosousalima51-droid/painel-cotacao](https://github.com/hiagosousalima51-droid/painel-cotacao)
-- **Demonstração:** [painel-cotacao-sigma.vercel.app](https://painel-cotacao-sigma.vercel.app/)
-
-## O que estou estudando agora
+## Em evolução contínua
 
 - Fundamentos de engenharia de software e organização de código
 - Desenvolvimento Full Stack com Node.js e bancos relacionais
 - Autenticação, segurança e boas práticas para aplicações web
 - Aplicações de inteligência artificial em produtos digitais
 
-## Contato
-
-- Perfil técnico: [GitHub](https://github.com/hiagosousalima51-droid)
-- Projetos e contato comercial: [Base 30](https://base-30-worn.vercel.app/#contato)
+<br>
 
 ---
 
 <p align="center">
-  Aberto a oportunidades de estágio em desenvolvimento de software.
+  <strong>Aberto a oportunidades de estágio em desenvolvimento de software.</strong><br>
+  <sub>São Paulo, Brasil · Projetos técnicos e comerciais</sub>
 </p>
