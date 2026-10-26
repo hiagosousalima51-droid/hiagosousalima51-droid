@@ -20,8 +20,4 @@
     <text x="0" y="201" fill="#EDE7DC" font-family="Arial, Helvetica, sans-serif" font-size="18">de Sistemas · ETEC</text>
   </g>
   <text x="42" y="366" fill="#918D87" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.6">DESENVOLVEDOR FULL STACK EM FORMAÇÃO</text>
-  <g transform="translate(1100 350)">
-    <circle r="26" fill="#F02027"/>
-    <path d="M-10 0H10M0-10V10" stroke="#151515" stroke-width="4"/>
-  </g>
 </svg>
