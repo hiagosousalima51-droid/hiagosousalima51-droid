@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Hiago Sousa Lima — Desenvolvedor Full Stack em formação" width="100%">
+  <img src="./assets/hero.svg?v=2" alt="Hiago Sousa Lima — Desenvolvedor Full Stack em formação" width="100%">
 </p>
 
 <p align="center">
